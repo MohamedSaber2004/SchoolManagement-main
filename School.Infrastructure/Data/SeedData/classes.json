@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Computer Science 101",
+    "TeacherName": "Dr. Sarah Johnson"
+  },
+  {
+    "Name": "Mathematics Advanced",
+    "TeacherName": "Prof. Michael Chen"
+  },
+  {
+    "Name": "Physics Fundamentals",
+    "TeacherName": "Dr. Emily Rodriguez"
+  },
+  {
+    "Name": "English Literature",
+    "TeacherName": "Prof. David Williams"
+  },
+  {
+    "Name": "Chemistry Lab",
+    "TeacherName": "Dr. Lisa Anderson"
+  }
+]
+

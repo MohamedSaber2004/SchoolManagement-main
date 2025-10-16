@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Introduction to Programming",
+    "description": "Learn the fundamentals of programming using C# and .NET"
+  },
+  {
+    "name": "Data Structures and Algorithms",
+    "description": "Advanced data structures and algorithm design techniques"
+  },
+  {
+    "name": "Calculus I",
+    "description": "Differential and integral calculus fundamentals"
+  },
+  {
+    "name": "Linear Algebra",
+    "description": "Vector spaces, matrices, and linear transformations"
+  },
+  {
+    "name": "Classical Mechanics",
+    "description": "Newton's laws, energy, and momentum principles"
+  },
+  {
+    "name": "Modern Literature",
+    "description": "Analysis of contemporary literary works and movements"
+  },
+  {
+    "name": "Organic Chemistry",
+    "description": "Study of carbon-based compounds and reactions"
+  },
+  {
+    "name": "Web Development",
+    "description": "Building modern web applications with ASP.NET Core"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "John Smith",
+    "email": "john.smith@school.com",
+    "classId": 5
+  },
+  {
+    "name": "Emma Wilson",
+    "email": "emma.wilson@school.com",
+    "classId": 5
+  },
+  {
+    "name": "Michael Brown",
+    "email": "michael.brown@school.com",
+    "classId": 6
+  },
+  {
+    "name": "Sophia Davis",
+    "email": "sophia.davis@school.com",
+    "classId": 6
+  },
+  {
+    "name": "James Martinez",
+    "email": "james.martinez@school.com",
+    "classId": 7
+  },
+  {
+    "name": "Olivia Garcia",
+    "email": "olivia.garcia@school.com",
+    "classId": 7
+  },
+  {
+    "name": "William Anderson",
+    "email": "william.anderson@school.com",
+    "classId": 8
+  },
+  {
+    "name": "Ava Thomas",
+    "email": "ava.thomas@school.com",
+    "classId": 8
+  },
+  {
+    "name": "Benjamin Taylor",
+    "email": "benjamin.taylor@school.com",
+    "classId": 9
+  },
+  {
+    "name": "Isabella Moore",
+    "email": "isabella.moore@school.com",
+    "classId": 9
+  },
+  {
+    "name": "Lucas Jackson",
+    "email": "lucas.jackson@school.com",
+    "classId": 5
+  },
+  {
+    "name": "Mia White",
+    "email": "mia.white@school.com",
+    "classId": 6
+  }
+]
