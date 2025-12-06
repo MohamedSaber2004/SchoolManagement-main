@@ -49,3 +49,4 @@ E:\SchoolManagement-main\School.Infrastructure\obj\Debug\net8.0\School.Infrastru
 E:\SchoolManagement-main\School.Infrastructure\obj\Debug\net8.0\refint\School.Infrastructure.dll
 E:\SchoolManagement-main\School.Infrastructure\obj\Debug\net8.0\School.Infrastructure.pdb
 E:\SchoolManagement-main\School.Infrastructure\obj\Debug\net8.0\ref\School.Infrastructure.dll
+E:\SchoolManagement-main\School.Infrastructure\obj\Debug\net8.0\School.Infrastructure.sourcelink.json

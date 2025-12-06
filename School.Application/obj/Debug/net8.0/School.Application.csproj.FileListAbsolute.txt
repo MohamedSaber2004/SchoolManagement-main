@@ -43,3 +43,4 @@ E:\SchoolManagement-main\School.Application\obj\Debug\net8.0\School.Application.
 E:\SchoolManagement-main\School.Application\obj\Debug\net8.0\refint\School.Application.dll
 E:\SchoolManagement-main\School.Application\obj\Debug\net8.0\School.Application.pdb
 E:\SchoolManagement-main\School.Application\obj\Debug\net8.0\ref\School.Application.dll
+E:\SchoolManagement-main\School.Application\obj\Debug\net8.0\School.Application.sourcelink.json

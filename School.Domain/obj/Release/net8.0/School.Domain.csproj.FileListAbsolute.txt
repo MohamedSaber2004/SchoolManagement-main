@@ -1,0 +1,12 @@
+E:\SchoolManagement-main\School.Domain\bin\Release\net8.0\School.Domain.deps.json
+E:\SchoolManagement-main\School.Domain\bin\Release\net8.0\School.Domain.dll
+E:\SchoolManagement-main\School.Domain\bin\Release\net8.0\School.Domain.pdb
+E:\SchoolManagement-main\School.Domain\obj\Release\net8.0\School.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\SchoolManagement-main\School.Domain\obj\Release\net8.0\School.Domain.AssemblyInfoInputs.cache
+E:\SchoolManagement-main\School.Domain\obj\Release\net8.0\School.Domain.AssemblyInfo.cs
+E:\SchoolManagement-main\School.Domain\obj\Release\net8.0\School.Domain.csproj.CoreCompileInputs.cache
+E:\SchoolManagement-main\School.Domain\obj\Release\net8.0\School.Domain.sourcelink.json
+E:\SchoolManagement-main\School.Domain\obj\Release\net8.0\School.Domain.dll
+E:\SchoolManagement-main\School.Domain\obj\Release\net8.0\refint\School.Domain.dll
+E:\SchoolManagement-main\School.Domain\obj\Release\net8.0\School.Domain.pdb
+E:\SchoolManagement-main\School.Domain\obj\Release\net8.0\ref\School.Domain.dll

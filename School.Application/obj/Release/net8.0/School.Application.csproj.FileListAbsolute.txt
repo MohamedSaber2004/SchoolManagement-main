@@ -1,0 +1,16 @@
+E:\SchoolManagement-main\School.Application\bin\Release\net8.0\School.Application.deps.json
+E:\SchoolManagement-main\School.Application\bin\Release\net8.0\School.Application.dll
+E:\SchoolManagement-main\School.Application\bin\Release\net8.0\School.Application.pdb
+E:\SchoolManagement-main\School.Application\bin\Release\net8.0\School.Domain.dll
+E:\SchoolManagement-main\School.Application\bin\Release\net8.0\School.Domain.pdb
+E:\SchoolManagement-main\School.Application\obj\Release\net8.0\School.Application.csproj.AssemblyReference.cache
+E:\SchoolManagement-main\School.Application\obj\Release\net8.0\School.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\SchoolManagement-main\School.Application\obj\Release\net8.0\School.Application.AssemblyInfoInputs.cache
+E:\SchoolManagement-main\School.Application\obj\Release\net8.0\School.Application.AssemblyInfo.cs
+E:\SchoolManagement-main\School.Application\obj\Release\net8.0\School.Application.csproj.CoreCompileInputs.cache
+E:\SchoolManagement-main\School.Application\obj\Release\net8.0\School.Application.sourcelink.json
+E:\SchoolManagement-main\School.Application\obj\Release\net8.0\School.A.0288516A.Up2Date
+E:\SchoolManagement-main\School.Application\obj\Release\net8.0\School.Application.dll
+E:\SchoolManagement-main\School.Application\obj\Release\net8.0\refint\School.Application.dll
+E:\SchoolManagement-main\School.Application\obj\Release\net8.0\School.Application.pdb
+E:\SchoolManagement-main\School.Application\obj\Release\net8.0\ref\School.Application.dll

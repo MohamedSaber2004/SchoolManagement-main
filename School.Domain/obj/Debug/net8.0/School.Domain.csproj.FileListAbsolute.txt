@@ -31,3 +31,4 @@ E:\SchoolManagement-main\School.Domain\obj\Debug\net8.0\School.Domain.dll
 E:\SchoolManagement-main\School.Domain\obj\Debug\net8.0\refint\School.Domain.dll
 E:\SchoolManagement-main\School.Domain\obj\Debug\net8.0\School.Domain.pdb
 E:\SchoolManagement-main\School.Domain\obj\Debug\net8.0\ref\School.Domain.dll
+E:\SchoolManagement-main\School.Domain\obj\Debug\net8.0\School.Domain.sourcelink.json

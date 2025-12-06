@@ -32,7 +32,8 @@ namespace School.Infrastructure.Implementation
 
                 if(!await _dbContext.Set<Class>().AnyAsync())
                 {
-                    var classeJsonData = File.OpenRead(@"..\School.Infrastructure\Data\SeedData\classes.json");
+                    var basePath = AppDomain.CurrentDomain.BaseDirectory;
+                    var classeJsonData = File.OpenRead(Path.Combine(basePath, "SeedData", "classes.json"));
                     var classeData = await JsonSerializer.DeserializeAsync<List<Class>>(classeJsonData, options);
                     if(classeData is not null && classeData.Any())
                     {
@@ -42,7 +43,8 @@ namespace School.Infrastructure.Implementation
 
                 if(!await _dbContext.Set<Student>().AnyAsync())
                 {
-                    var studentJsonData = File.OpenRead(@"..\School.Infrastructure\Data\SeedData\students.json");
+                    var basePath = AppDomain.CurrentDomain.BaseDirectory;
+                    var studentJsonData = File.OpenRead(Path.Combine(basePath, "SeedData", "students.json"));
                     var studentData = await JsonSerializer.DeserializeAsync<List<Student>>(studentJsonData, options);
                     if(studentData is not null && studentData.Any())
                     {
@@ -52,7 +54,8 @@ namespace School.Infrastructure.Implementation
 
                 if(!await _dbContext.Set<Course>().AnyAsync())
                 {
-                    var courseJsonData = File.OpenRead(@"..\School.Infrastructure\Data\SeedData\courses.json");
+                    var basePath = AppDomain.CurrentDomain.BaseDirectory;
+                    var courseJsonData = File.OpenRead(Path.Combine(basePath, "SeedData", "courses.json"));
                     var courseData = await JsonSerializer.DeserializeAsync<List<Course>>(courseJsonData, options);
                     if(courseData is not null && courseData.Any())
                     {
